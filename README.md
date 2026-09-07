@@ -18,7 +18,8 @@ Todo el crédito por la extracción de strings de un FCO a un XML va para él y 
 7. Edita a tu gusto
 8. Guarda los cambios y el XML quedará listo para ser convertido nuevamente a FCO con FCO_Tool.
 
-**IMPORTANTE**
+**IMPORTANTE:**
+
 El carácter **/** representa un salto de línea y se carga por defecto
 
 El checkbox de **Triple Espacio (Auto)** se usa para los subtítulos
